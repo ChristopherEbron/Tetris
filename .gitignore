@@ -1,1 +1,25 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
 *.exe
+
+# Library files
+*.lib
+*.a
+
+# Debug files
+*.pdb
+
+# IDE specific files
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# IDE generated files
+/build/
+/Debug/
+/Release/
